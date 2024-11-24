@@ -1,0 +1,78 @@
+2024-11-24 18:59:25,300 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-24 18:59:25,300 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 18:59:25,301 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 18:59:26,143 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 18:59:26,143 - werkzeug - INFO -  * Debugger PIN: 283-808-969
+2024-11-24 18:59:29,783 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:59:29] "GET / HTTP/1.1" 200 -
+2024-11-24 18:59:34,691 - __main__ - ERROR - Error during chat: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-24 18:59:34,694 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:59:34] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-11-24 19:00:14,049 - werkzeug - INFO -  * Detected change in '/home/ignat/Documents/llm/openai_assistants/textotspeech/flask_it 5/app.py', reloading
+2024-11-24 19:00:14,234 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 19:00:15,237 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 19:00:15,238 - werkzeug - INFO -  * Debugger PIN: 283-808-969
+2024-11-24 19:00:16,183 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 19:00:16] "GET / HTTP/1.1" 200 -
+2024-11-24 19:00:25,195 - __main__ - ERROR - Error during chat: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-24 19:00:25,197 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 19:00:25] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-11-24 19:01:34,404 - werkzeug - INFO -  * Detected change in '/home/ignat/Documents/llm/openai_assistants/textotspeech/flask_it 5/app.py', reloading
+2024-11-24 19:01:34,684 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 19:01:35,947 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 19:01:35,948 - werkzeug - INFO -  * Debugger PIN: 283-808-969
+2024-11-24 19:01:40,943 - __main__ - ERROR - Error during chat: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-24 19:01:40,949 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 19:01:40] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-11-24 19:02:01,781 - __main__ - ERROR - Error during chat: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-24 19:02:01,783 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 19:02:01] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-11-24 19:02:19,092 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 19:02:19] "GET / HTTP/1.1" 200 -
+2024-11-24 19:02:32,750 - __main__ - ERROR - Error during chat: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-24 19:02:32,753 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 19:02:32] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-11-24 19:02:44,492 - werkzeug - INFO -  * Detected change in '/home/ignat/Documents/llm/openai_assistants/textotspeech/flask_it 5/app.py', reloading
+2024-11-24 19:02:44,725 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 19:02:45,930 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 19:02:45,930 - werkzeug - INFO -  * Debugger PIN: 283-808-969
+2024-11-24 19:06:39,124 - werkzeug - INFO -  * Detected change in '/home/ignat/Documents/llm/openai_assistants/textotspeech/flask_it 5/app.py', reloading
+2024-11-24 19:06:39,338 - werkzeug - INFO -  * Restarting with stat

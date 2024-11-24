@@ -1,0 +1,174 @@
+2024-11-24 14:10:12,632 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-24 14:10:12,633 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 14:10:12,635 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 14:10:13,935 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 14:10:13,938 - werkzeug - INFO -  * Debugger PIN: 962-278-496
+2024-11-24 14:10:25,120 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 14:10:25] "GET / HTTP/1.1" 200 -
+2024-11-24 14:10:39,268 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 14:10:39,385 - __main__ - INFO - Pygame mixer initialized successfully
+2024-11-24 14:10:39,387 - __main__ - INFO - Successfully synthesized and played audio for text: hi there...
+2024-11-24 14:10:39,388 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 14:10:39] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 14:11:03,368 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 14:11:03,715 - __main__ - INFO - Successfully synthesized and played audio for text: testing, texting... not too shabby...
+2024-11-24 14:11:03,715 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 14:11:03] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 14:11:34,269 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 14:11:34,768 - __main__ - INFO - Successfully synthesized and played audio for text: testing, texting... not too shabby...
+2024-11-24 14:11:34,769 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 14:11:34] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 14:11:39,682 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 14:11:39,937 - __main__ - INFO - Successfully synthesized and played audio for text: testing, texting... not too shabby...
+2024-11-24 14:11:39,937 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 14:11:39] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 14:23:53,559 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-24 14:23:53,560 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 14:23:53,561 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 14:23:54,660 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 14:23:54,667 - werkzeug - INFO -  * Debugger PIN: 283-827-011
+2024-11-24 14:23:58,331 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 14:23:58] "GET / HTTP/1.1" 200 -
+2024-11-24 14:26:20,154 - werkzeug - INFO -  * Detected change in '/home/ignat/Documents/llm/openai_assistants/textotspeech/flask_it 2/app.py', reloading
+2024-11-24 14:26:20,637 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 14:30:03,398 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-24 14:30:03,399 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 14:30:03,401 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 14:30:05,394 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 14:30:05,396 - werkzeug - INFO -  * Debugger PIN: 283-827-011
+2024-11-24 14:30:08,742 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 14:30:08] "GET / HTTP/1.1" 200 -
+2024-11-24 14:30:21,203 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 14:30:22,020 - __main__ - INFO - Pygame mixer initialized successfully
+2024-11-24 14:30:22,025 - __main__ - INFO - Successfully synthesized and analyzed audio for text: pretty funny...
+2024-11-24 14:30:22,026 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 14:30:22] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 14:30:59,238 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 14:30:59,978 - __main__ - INFO - Successfully synthesized and analyzed audio for text: pretty funny  ......pretty..........funny...
+2024-11-24 14:30:59,979 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 14:30:59] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 16:15:40,976 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-24 16:15:40,976 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 16:15:40,977 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 16:15:42,452 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 16:15:42,453 - werkzeug - INFO -  * Debugger PIN: 283-827-011
+2024-11-24 16:15:49,219 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 16:15:49] "GET / HTTP/1.1" 200 -
+2024-11-24 16:16:01,002 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 16:16:01,819 - __main__ - INFO - Pygame mixer initialized successfully
+2024-11-24 16:16:01,826 - __main__ - INFO - Successfully synthesized and analyzed audio for text: greetings...
+2024-11-24 16:16:01,827 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 16:16:01] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:01:02,870 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-24 18:01:02,871 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 18:01:02,872 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 18:01:04,006 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 18:01:04,109 - werkzeug - INFO -  * Debugger PIN: 138-425-318
+2024-11-24 18:01:07,579 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:01:07] "GET / HTTP/1.1" 200 -
+2024-11-24 18:01:07,909 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:01:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-24 18:03:39,115 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:03:39] "GET / HTTP/1.1" 200 -
+2024-11-24 18:03:39,281 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:03:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-24 18:03:52,671 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:03:53,129 - __main__ - INFO - Pygame mixer initialized successfully
+2024-11-24 18:03:53,131 - __main__ - INFO - Successfully synthesized and analyzed audio for text: hi there...
+2024-11-24 18:03:53,131 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:03:53] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:03:57,665 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:03:58,080 - __main__ - INFO - Successfully synthesized and analyzed audio for text: hi there...
+2024-11-24 18:03:58,080 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:03:58] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:05:58,416 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:05:58] "GET / HTTP/1.1" 200 -
+2024-11-24 18:06:04,603 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:06:04,924 - __main__ - INFO - Successfully synthesized and analyzed audio for text: aaaa...
+2024-11-24 18:06:04,924 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:06:04] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:08:33,830 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:08:33] "GET / HTTP/1.1" 200 -
+2024-11-24 18:08:34,026 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:08:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-24 18:08:45,370 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:08:45,797 - __main__ - INFO - Successfully synthesized and analyzed audio for text: hi hi...
+2024-11-24 18:08:45,797 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:08:45] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:11:31,651 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:11:31] "GET / HTTP/1.1" 200 -
+2024-11-24 18:11:33,094 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:11:33] "GET / HTTP/1.1" 200 -
+2024-11-24 18:11:42,178 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:11:42,646 - __main__ - INFO - Successfully synthesized and analyzed audio for text: aaa  aaa...
+2024-11-24 18:11:42,647 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:11:42] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:12:49,583 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:12:49] "GET / HTTP/1.1" 200 -
+2024-11-24 18:12:53,653 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:12:54,002 - __main__ - INFO - Successfully synthesized and analyzed audio for text: adf...
+2024-11-24 18:12:54,003 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:12:54] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:13:02,922 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:13:02] "GET / HTTP/1.1" 200 -
+2024-11-24 18:13:03,055 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:13:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-24 18:13:10,146 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:13:10,603 - __main__ - INFO - Successfully synthesized and analyzed audio for text: fff  aaaa  ffff...
+2024-11-24 18:13:10,603 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:13:10] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:13:14,019 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:13:14,368 - __main__ - INFO - Successfully synthesized and analyzed audio for text: fff  aaaa  ffff...
+2024-11-24 18:13:14,369 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:13:14] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:13:17,384 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:13:17] "GET / HTTP/1.1" 200 -
+2024-11-24 18:13:17,489 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:13:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-24 18:13:21,706 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:13:21] "GET / HTTP/1.1" 200 -
+2024-11-24 18:13:32,070 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:13:32,747 - __main__ - INFO - Successfully synthesized and analyzed audio for text: greetings from barcelona...
+2024-11-24 18:13:32,748 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:13:32] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:18:02,749 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:18:02] "GET / HTTP/1.1" 200 -
+2024-11-24 18:18:11,536 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:18:12,037 - __main__ - INFO - Successfully synthesized and analyzed audio for text: asd  aa...
+2024-11-24 18:18:12,037 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:18:12] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:18:37,504 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:18:37] "GET / HTTP/1.1" 200 -
+2024-11-24 18:18:41,523 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:18:42,014 - __main__ - INFO - Successfully synthesized and analyzed audio for text: aaa...
+2024-11-24 18:18:42,014 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:18:42] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:19:57,402 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:19:57] "GET / HTTP/1.1" 200 -
+2024-11-24 18:20:03,456 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:20:03,925 - __main__ - INFO - Successfully synthesized and analyzed audio for text: aaa  nnnnaaa...
+2024-11-24 18:20:03,926 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:20:03] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:21:46,594 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:21:46] "GET / HTTP/1.1" 200 -
+2024-11-24 18:21:52,044 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:21:52,471 - __main__ - INFO - Successfully synthesized and analyzed audio for text: aa...
+2024-11-24 18:21:52,471 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:21:52] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:22:21,443 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:22:22,187 - __main__ - INFO - Successfully synthesized and analyzed audio for text: once upon a time in a place far far away...
+2024-11-24 18:22:22,188 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:22:22] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:37:10,996 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:37:11,464 - __main__ - INFO - Successfully synthesized and analyzed audio for text: greetings...
+2024-11-24 18:37:11,464 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:37:11] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 18:37:20,274 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 18:37:20,595 - __main__ - INFO - Successfully synthesized and analyzed audio for text: greetings...
+2024-11-24 18:37:20,596 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 18:37:20] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 21:26:58,643 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-24 21:26:58,643 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 21:26:58,644 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 21:27:00,036 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 21:27:00,037 - werkzeug - INFO -  * Debugger PIN: 389-270-609
+2024-11-24 21:27:05,338 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 21:27:05] "GET / HTTP/1.1" 200 -
+2024-11-24 21:27:36,845 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 21:27:38,341 - __main__ - INFO - Pygame mixer initialized successfully
+2024-11-24 21:27:38,355 - __main__ - INFO - Successfully synthesized and analyzed audio for text: Lorem ipsum dolor sit amet, consectetur adipiscing...
+2024-11-24 21:27:38,357 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 21:27:38] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 21:28:17,890 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 21:28:20,141 - __main__ - INFO - Successfully synthesized and analyzed audio for text: Lorem ipsum dolor sit amet, consectetur adipiscing...
+2024-11-24 21:28:20,143 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 21:28:20] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 22:26:34,889 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-24 22:26:34,892 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 22:26:34,893 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 22:26:36,136 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 22:26:36,136 - werkzeug - INFO -  * Debugger PIN: 138-425-318
+2024-11-24 22:26:36,897 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 22:26:36] "GET / HTTP/1.1" 200 -
+2024-11-24 22:26:56,366 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 22:26:57,725 - __main__ - INFO - Pygame mixer initialized successfully
+2024-11-24 22:26:57,726 - __main__ - INFO - Successfully synthesized and analyzed audio for text: hi...
+2024-11-24 22:26:57,727 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 22:26:57] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 22:27:08,440 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 22:27:09,013 - __main__ - INFO - Successfully synthesized and analyzed audio for text: hi there...
+2024-11-24 22:27:09,014 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 22:27:09] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 22:55:47,225 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-24 22:55:47,225 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 22:55:47,226 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 22:55:48,420 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 22:55:48,420 - werkzeug - INFO -  * Debugger PIN: 138-425-318
+2024-11-24 22:55:57,143 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 22:55:57] "GET / HTTP/1.1" 200 -
+2024-11-24 22:56:05,221 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 22:56:05,680 - __main__ - INFO - Pygame mixer initialized successfully
+2024-11-24 22:56:05,681 - __main__ - INFO - Successfully synthesized and analyzed audio for text: greetings...
+2024-11-24 22:56:05,682 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 22:56:05] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 22:56:20,159 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 22:56:20,531 - __main__ - INFO - Successfully synthesized and analyzed audio for text: greetings...
+2024-11-24 22:56:20,531 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 22:56:20] "POST /synthesize HTTP/1.1" 200 -
+2024-11-24 22:56:23,795 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 22:56:23] "GET / HTTP/1.1" 200 -
+2024-11-24 22:56:36,916 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 22:56:37,306 - __main__ - INFO - Successfully synthesized and analyzed audio for text: ánimo compañero...
+2024-11-24 22:56:37,306 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 22:56:37] "POST /synthesize HTTP/1.1" 200 -

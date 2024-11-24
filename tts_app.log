@@ -1,0 +1,11 @@
+2024-11-24 23:06:44,293 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-24 23:06:44,293 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-24 23:06:44,294 - werkzeug - INFO -  * Restarting with stat
+2024-11-24 23:06:45,618 - werkzeug - WARNING -  * Debugger is active!
+2024-11-24 23:06:45,619 - werkzeug - INFO -  * Debugger PIN: 114-482-320
+2024-11-24 23:06:47,703 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 23:06:47] "GET / HTTP/1.1" 200 -
+2024-11-24 23:06:58,954 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-11-24 23:06:59,331 - __main__ - INFO - Pygame mixer initialized successfully
+2024-11-24 23:06:59,333 - __main__ - INFO - Successfully synthesized and analyzed audio for text: greetings...
+2024-11-24 23:06:59,335 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2024 23:06:59] "POST /synthesize HTTP/1.1" 200 -
